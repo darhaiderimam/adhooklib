@@ -1,0 +1,112 @@
+[
+  {
+    "id": "HOOK_001",
+    "hook_text": "Stop drinking synthetic chalk. It's destroying your gut.",
+    "vertical": "ecommerce",
+    "sub_vertical": "supplements",
+    "angle_type": "contrarian",
+    "emotional_lever": "disgust_skepticism",
+    "format": "video_9x16",
+    "visual_cue": "Violently throwing neon powder packet into trash can",
+    "hold_rate_benchmark": "34%"
+  },
+  {
+    "id": "HOOK_002",
+    "hook_text": "Why 90% of marathon runners hit a wall at Mile 18 (and it's not lack of miles).",
+    "vertical": "ecommerce",
+    "sub_vertical": "fitness",
+    "angle_type": "curiosity_gap",
+    "emotional_lever": "frustration",
+    "format": "video_9x16",
+    "visual_cue": "Runner collapsing onto turf, clutching hamstring",
+    "hold_rate_benchmark": "38%"
+  },
+  {
+    "id": "HOOK_003",
+    "hook_text": "We tested 14 CRM tools for agencies so you don't have to waste $15k.",
+    "vertical": "b2b_saas",
+    "sub_vertical": "martech",
+    "angle_type": "social_proof",
+    "emotional_lever": "fomo_relief",
+    "format": "carousel_1x1",
+    "visual_cue": "Spreadsheet grid with red X and green checks",
+    "hold_rate_benchmark": "29%"
+  },
+  {
+    "id": "HOOK_004",
+    "hook_text": "Your accountant isn't going to tell you this tax loophole before Dec 31.",
+    "vertical": "fintech",
+    "sub_vertical": "accounting",
+    "angle_type": "insider_secret",
+    "emotional_lever": "urgency_suspicion",
+    "format": "video_9x16",
+    "visual_cue": "Finger pointing at IRS Form 1040 line item",
+    "hold_rate_benchmark": "42%"
+  },
+  {
+    "id": "HOOK_005",
+    "hook_text": "Most agencies charge you $10k/month to change bids. Here's what we do instead.",
+    "vertical": "b2b_services",
+    "sub_vertical": "marketing_agency",
+    "angle_type": "us_vs_them",
+    "emotional_lever": "vindication",
+    "format": "video_9x16",
+    "visual_cue": "Split screen comparing traditional retainer vs performance sprints",
+    "hold_rate_benchmark": "31%"
+  },
+  {
+    "id": "HOOK_006",
+    "hook_text": "The 3 words you should never say to an angry client on Slack.",
+    "vertical": "b2b_services",
+    "sub_vertical": "consulting",
+    "angle_type": "negative_warning",
+    "emotional_lever": "fear_caution",
+    "format": "video_9x16",
+    "visual_cue": "Screenshot of Slack typing notification with exclamation mark",
+    "hold_rate_benchmark": "36%"
+  },
+  {
+    "id": "HOOK_007",
+    "hook_text": "Throw away your retinol. Dermatologists in Seoul are using this 1 ingredient.",
+    "vertical": "ecommerce",
+    "sub_vertical": "skincare",
+    "angle_type": "contrarian",
+    "emotional_lever": "curiosity",
+    "format": "video_9x16",
+    "visual_cue": "Close up of glass dropper with clear serum",
+    "hold_rate_benchmark": "41%"
+  },
+  {
+    "id": "HOOK_008",
+    "hook_text": "If your team spends more than 2 hours a day in Jira, your engineering velocity is cooked.",
+    "vertical": "b2b_saas",
+    "sub_vertical": "dev_tools",
+    "angle_type": "direct_callout",
+    "emotional_lever": "frustration",
+    "format": "static_4x5",
+    "visual_cue": "Calendar view completely blocked with red meetings",
+    "hold_rate_benchmark": "33%"
+  },
+  {
+    "id": "HOOK_009",
+    "hook_text": "Why your Meta ad account CPM doubled overnight (and how to fix it in 3 clicks).",
+    "vertical": "b2b_services",
+    "sub_vertical": "media_buying",
+    "angle_type": "problem_agitation",
+    "emotional_lever": "panic_relief",
+    "format": "video_9x16",
+    "visual_cue": "Screen recording inside Meta Ads Manager delivery column",
+    "hold_rate_benchmark": "39%"
+  },
+  {
+    "id": "HOOK_010",
+    "hook_text": "I audited 50 landing pages that spend $100k/mo. 47 of them make this exact hero section mistake.",
+    "vertical": "b2b_services",
+    "sub_vertical": "cro",
+    "angle_type": "authority_teardown",
+    "emotional_lever": "skepticism_status",
+    "format": "carousel_1x1",
+    "visual_cue": "Red pen circling bad button copy on a laptop screen",
+    "hold_rate_benchmark": "44%"
+  }
+]
