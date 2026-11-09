@@ -49,7 +49,7 @@ def main():
             print(f"- [{h['id']}] \"{h['hook_text']}\"")
             print(f"  Vertical: {h['vertical']} | Angle: {h['angle_type']} | Format: {h['format']}")
             print(f"  Visual Direction: {h.get('visual_cue', 'N/A')}")
-            print(f"  Hook Rate Benchmark: {h.get('hold_rate_benchmark', 'N/A')}\n")
+            print(f"  Benchmark: {h.get('synthetic_benchmark', 'N/A')}\n")
 
     elif args.command == "random":
         candidates = hooks
