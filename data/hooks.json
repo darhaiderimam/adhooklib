@@ -8,7 +8,7 @@
     "emotional_lever": "disgust_skepticism",
     "format": "video_9x16",
     "visual_cue": "Violently throwing neon powder packet into trash can",
-    "hold_rate_benchmark": "34%"
+    "synthetic_benchmark": "34% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_002",
@@ -19,7 +19,7 @@
     "emotional_lever": "frustration",
     "format": "video_9x16",
     "visual_cue": "Runner collapsing onto turf, clutching hamstring",
-    "hold_rate_benchmark": "38%"
+    "synthetic_benchmark": "38% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_003",
@@ -30,7 +30,7 @@
     "emotional_lever": "fomo_relief",
     "format": "carousel_1x1",
     "visual_cue": "Spreadsheet grid with red X and green checks",
-    "hold_rate_benchmark": "29%"
+    "synthetic_benchmark": "29% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_004",
@@ -41,7 +41,7 @@
     "emotional_lever": "urgency_suspicion",
     "format": "video_9x16",
     "visual_cue": "Finger pointing at IRS Form 1040 line item",
-    "hold_rate_benchmark": "42%"
+    "synthetic_benchmark": "42% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_005",
@@ -52,7 +52,7 @@
     "emotional_lever": "vindication",
     "format": "video_9x16",
     "visual_cue": "Split screen comparing traditional retainer vs performance sprints",
-    "hold_rate_benchmark": "31%"
+    "synthetic_benchmark": "31% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_006",
@@ -63,7 +63,7 @@
     "emotional_lever": "fear_caution",
     "format": "video_9x16",
     "visual_cue": "Screenshot of Slack typing notification with exclamation mark",
-    "hold_rate_benchmark": "36%"
+    "synthetic_benchmark": "36% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_007",
@@ -74,7 +74,7 @@
     "emotional_lever": "curiosity",
     "format": "video_9x16",
     "visual_cue": "Close up of glass dropper with clear serum",
-    "hold_rate_benchmark": "41%"
+    "synthetic_benchmark": "41% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_008",
@@ -85,7 +85,7 @@
     "emotional_lever": "frustration",
     "format": "static_4x5",
     "visual_cue": "Calendar view completely blocked with red meetings",
-    "hold_rate_benchmark": "33%"
+    "synthetic_benchmark": "33% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_009",
@@ -96,7 +96,7 @@
     "emotional_lever": "panic_relief",
     "format": "video_9x16",
     "visual_cue": "Screen recording inside Meta Ads Manager delivery column",
-    "hold_rate_benchmark": "39%"
+    "synthetic_benchmark": "39% 3s-view rate (synthetic test baseline)"
   },
   {
     "id": "HOOK_010",
@@ -107,6 +107,6 @@
     "emotional_lever": "skepticism_status",
     "format": "carousel_1x1",
     "visual_cue": "Red pen circling bad button copy on a laptop screen",
-    "hold_rate_benchmark": "44%"
+    "synthetic_benchmark": "44% 3s-view rate (synthetic test baseline)"
   }
 ]

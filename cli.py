@@ -15,7 +15,7 @@ def load_hooks():
 
 def main():
     parser = argparse.ArgumentParser(
-        prog="hooklib",
+        prog="adhooklib",
         description="Queryable open corpus of high-performing ad hooks and angles."
     )
     subparsers = parser.add_subparsers(dest="command", help="Commands")
