@@ -1,9 +1,9 @@
 # adhooklib
 
-> **An open, tagged ad hook corpus for performance marketers, video editors, and AI agents.**
+> **An open, tagged 100-hook corpus for performance marketers, video editors, and AI agents.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Format: JSON & CLI](https://img.shields.io/badge/Data-Open%20Corpus-green.svg)](data/hooks.json)
+[![Corpus: 100 Hooks](https://img.shields.io/badge/Corpus-100%20Hooks-green.svg)](data/hooks.json)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
 
 ---
@@ -12,7 +12,7 @@
 
 Dataset repositories are among the most cited and forked artifacts on GitHub. While static prompt lists quickly go stale, a queryable ad hook corpus provides a structured foundation that video editors, copywriters, and AI agents can query at runtime.
 
-`adhooklib` is an open-source library of high-converting direct-response hooks categorized across verticals, angle types, emotional levers, and visual pattern interrupts.
+`adhooklib` is an open-source library of 100 high-converting direct-response hooks categorized across verticals (Ecommerce, B2B SaaS, B2B Services, FinTech, Mobile Apps, Education), angle types, emotional levers, and visual pattern interrupts.
 
 ---
 
