@@ -83,4 +83,4 @@ We welcome PRs adding proven hooks. Each contribution must include:
 ---
 
 ## License
-MIT © [Imam Haider (@darhaiderimam)](https://github.com/darhaiderimam)
+MIT © [Imam Haider (@darhaiderimam)](https://github.com/darhaiderimam) • [LinkedIn](https://www.linkedin.com/in/darhaiderimam)
